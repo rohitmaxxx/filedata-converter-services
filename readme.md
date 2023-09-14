@@ -1,4 +1,4 @@
-# Policy Pal document conversion service
+# Document conversion service
 
 ## Setup
 
